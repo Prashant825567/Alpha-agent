@@ -1,0 +1,14 @@
+{
+  "name": "jarvis-agent",
+  "type": "module",
+  "dependencies": {
+    "@livekit/agents": "^0.5.0",
+    "@livekit/agents-plugin-deepgram": "^0.5.0",
+    "@livekit/agents-plugin-elevenlabs": "^0.5.0",
+    "livekit-server-sdk": "^2.0.0",
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}
+
